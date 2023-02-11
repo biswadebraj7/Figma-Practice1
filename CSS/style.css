@@ -228,7 +228,7 @@ color: #585859;
 .startdate img{
     height: 20px;
     width: 20px;
-
+    margin: auto;
 border-radius: 0px;
 
 }
@@ -236,4 +236,114 @@ border-radius: 0px;
     background: #FFFFFF;
 box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
 border-radius: 18px;
+}
+.Testimonial{
+    padding: 45px 0px;
+}
+.Testimonial h1{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+
+}
+.ellipse img{
+    width: 120px;
+    height: 120px;
+    margin:auto;
+     align-items: center;
+     place-content: center;
+
+}
+.test{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 30px 0px;
+   
+    
+}
+.pse p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: justify;
+    margin-top: 10px;
+    color: #000000;
+    
+
+}
+footer{
+    padding: 45px 0px 0px 0px;
+    background-color: #282531;
+}
+.footer-section{
+    padding: 10px 0px;
+}
+.footpara p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#ffffff;
+
+}
+.foot{
+
+}
+.foot h3{
+
+
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color:#ffffff;
+
+}
+.foot ul{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+padding: 0;
+margin: 0;
+
+
+}
+.foot ul li{
+    list-style-type: none;
+}
+.foot ul li a{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+color:#ffffff;
+
+}
+.copyright{
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    padding: 25px 0px;
+    color: #CDCDCD;
+
 }
